@@ -1,1 +1,0 @@
-# This is ALX project on AirBNB clone - Web static
